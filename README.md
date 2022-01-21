@@ -6,7 +6,7 @@ Check out [FRONTEND LIVE DEMO](https://frontend-netflix-clone.herokuapp.com/) he
 Check out [API LIVE DEMO](https://backend-synamatic.herokuapp.com/) here!!
 
 
-![synamatic_main](https://user-images.githubusercontent.com/93954303/150614018-2625eedb-c22b-4fae-9d59-15c3e8144f31.PNG)
+![synamatic_main](https://user-images.githubusercontent.com/93954303/150614267-f57bd96a-53ae-40b7-b113-59d0dc0efeb0.PNG)
 
 
 ## Tech used
