@@ -5,7 +5,7 @@ Movie Review App, with a frontend built in React & Redux and a backend built in 
 Check out [FRONTEND LIVE DEMO](https://frontend-netflix-clone.herokuapp.com/) here!!
 Check out [API LIVE DEMO](https://backend-synamatic.herokuapp.com/) here!!
 
-![synamatic_main](https://user-images.githubusercontent.com/93954303/150614385-72f6ce96-7f6c-44a6-a8a0-5c3df5eff307.PNG)
+![synamatic_main](https://user-images.githubusercontent.com/93954303/150614586-ea7da98a-30c0-4f20-ac59-a95eb515596c.PNG)
 
 
 ## Tech used
